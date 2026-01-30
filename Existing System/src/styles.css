@@ -1,0 +1,9 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  margin: 50px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
